@@ -1,0 +1,40 @@
+        swimming 
+        cycling 
+        tennis 
+        boxing 
+        shooting 
+        equestrian jumping 
+        sailing 
+        rhythmic gymnastics 
+        judo 
+        golf 
+        snooker 
+        basketball 
+        football 
+        volleyball 
+        baseball 
+        ski jumping 
+        figure skating 
+        bobsleigh
+        synchronized swimming 
+        rowing 
+        kayak slalom 
+        biathlon 
+        triathalon
+        cross-country skiing 
+        downhill skiing 
+        snowboarding 
+        ice hockey 
+        curling 
+        table tennis 
+        gymnastics 
+        bowling 
+        athletics 
+        freestyle wrestling 
+        weightlifting 
+        fencing 
+        archery 
+        badminton 
+        field hockey 
+        diving 
+        cricket
